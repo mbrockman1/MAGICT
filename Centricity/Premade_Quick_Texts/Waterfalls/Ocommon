@@ -1,1 +1,15 @@
-A1c: .Oa1cXB12: .Ob12XBMP: .ObmpXCMP: .OcmpXCBC: .OcbcXCBC - no Diff: .OcbcNoDiffXHepatitis panel: .OviralHepXHep C treatment start: .OHepCTxPrepX or .OHepCTxCare1stXHyperlipidemia: .OlpXIron: .OironX or .OironMcareXPathology: .OpathXPrEP (start): .OPREP1XPrEP (q3m): .OprepX (consider repeat of .Ohcv q12m)Rheumatoid Panel: .OrheumX or .OrheumCare1stXTestosterone: .OtestoXTSH: .OtshXTSH-r: .OtshReflexXUric Acid: .OuricXVitamin D: .OvitDX
+A1c: .Oa1cX
+B12: .Ob12X
+BMP: .ObmpX
+CMP: .OcmpX
+CBC: .OcbcdiffX
+CBC - no Diff: .OcbcX
+Hepatitis panel: .OviralhepX
+Hep C: ohcvX
+Hyperlipidemia: .OlpX
+Iron: .OironX or .OironmcareX
+Rheumatoid Panel: .OrheumX
+TSH: .OtshX
+TSH-r: .OtshrX
+Uric Acid: .OuricX
+Vitamin D: .OvitdX
