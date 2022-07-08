@@ -1,0 +1,1 @@
+{MEL_ADD_ORDER('S','Diabetes Mellitus','CPT-2022F DILAT RETINAL EYE EXAM W/INTERP OPHTHAL/OPTOM','','ICD-E11.9','Diabetes mellitus type II')''}Annual DM labs and screenings ordered (DM eye screening, a1c, urine albumin, CMP, lipids). last a1c {OBSPREV("HGBA1C")}% on {Lastobsdate("HGBA1C")}.

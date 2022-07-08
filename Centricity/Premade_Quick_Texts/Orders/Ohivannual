@@ -1,0 +1,1 @@
+.OHIVLABS {MEL_ADD_ORDER('T',"Laboratory",'RPR/VDRL','','ICD-B20','HIV disease')''}{MEL_ADD_ORDER('T',"EMRLink Labs",'Helper T-Lymph-CD4','','ICD-B20','HIV disease')''}{MEL_ADD_ORDER('T',"Laboratory",'Lipid Profile','','ICD-B20','HIV disease')''}{MEL_ADD_ORDER('T',"EMRLink Labs",'Quantiferon TB Gold','','ICD-B20','HIV disease')''} Annual labs ordered.

@@ -1,0 +1,3 @@
+{MEL_ADD_ORDER("T","Laboratory","Iron % Sat","","R53.83","Other fatigue")}
+{MEL_ADD_ORDER("T","Laboratory","Iron - Serum","","R53.83","Other fatigue")}
+{MEL_ADD_ORDER("T","EMRLink Labs","Ferritin","","R53.83","Other fatigue")}

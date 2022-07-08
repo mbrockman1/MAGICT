@@ -1,0 +1,1 @@
+{MEL_ADD_ORDER('T',"Laboratory",'Complete Metabolic Panel','','ICD-Z78.9','Screening for std')''}{MEL_ADD_ORDER('T','EMRLink Labs','CHLAMYDIA/N. GONORRHOEAE DNA, SDA','','ICD-Z78.9','Screening for std')''}{MEL_ADD_PROBLEM('','Screening for std','ICD-Z78.9',str(._todaysdate),'','','C','STD screening and safe sex discussed with patient and patient opts for screening.')''} .Ostd1 }

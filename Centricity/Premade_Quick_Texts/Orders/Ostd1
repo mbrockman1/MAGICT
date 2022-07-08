@@ -1,0 +1,1 @@
+{MEL_ADD_ORDER('T',"Laboratory",'HIV Antibody','','ICD-Z78.9','Screening for std')}{MEL_ADD_ORDER('T',"Laboratory",'RPR/VDRL','','ICD-Z78.9','Screening for std')}{MEL_ADD_ORDER('T',"Laboratory",'Hepatitis Panel','','ICD-Z78.9','Screening for std')}

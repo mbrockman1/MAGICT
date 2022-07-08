@@ -1,0 +1,1 @@
+A1c: {OBSPREV("HGBA1C")} {Lastobsdate("HGBA1C")}; Cr: {OBSPREV("CREATININE")} {Lastobsdate("CREATININE")}; Microalb/cr: {OBSPREV("MALBCR RATIO")} {Lastobsdate("MALBCR RATIO")}--{MED_INDICATIONS()}--Last appointment was {APPT_PRIOR()}.Next appointment is {APPT_NEXT()}.
