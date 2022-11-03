@@ -1,1 +1,1 @@
-{MEL_ADD_ORDER("T","UBCC Imaging","Diagnostic Mammogram Bilateral",'',"Z12.31","Screening Mammogram",'Routine breast cancer screening, asymptomatic')}
+{MEL_ADD_ORDER("T","EMRLink Rad","Screening MMG, Bilateral, 2 view with CAD",'',"Z12.31","Screening Mammogram",'Routine breast cancer screening, asymptomatic')}

@@ -1,0 +1,5 @@
+Last Lipids:
+- Cholesterol: {Lastobsdate("CHOLESTEROL")} {OBSPREV("CHOLESTEROL")}
+- LDL: {Lastobsdate("LDL")} {OBSPREV("LDL")} 
+- HDL: {Lastobsdate("HDL")} {OBSPREV("HDL")}
+- TG: {Lastobsdate("TRIGLYC TOT")} {OBSPREV("TRIGLYC TOT")} 

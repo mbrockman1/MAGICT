@@ -1,1 +1,0 @@
-Cholesterol: {OBSPREV("CHOLESTEROL")} {Lastobsdate("CHOLESTEROL")}; NON-HDL: {OBSPREV("NON-HDL CHOL")} {Lastobsdate("NON-HDL CHOL")}; HDL: {OBSPREV("HDL")} {Lastobsdate("HDL")}; TG: {OBSPREV("TRIGLYCERIDE")} {Lastobsdate("TRIGLYCERIDE")}.--
